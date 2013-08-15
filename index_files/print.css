@@ -1,0 +1,8 @@
+
+@media print {
+#top {display:none;}
+#sidebar {display:none;}
+#footer {display:none;}
+a {color: #000 important;}
+
+}

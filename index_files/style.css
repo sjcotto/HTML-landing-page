@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/**
+ * Theme Name:     camunda-V2
+ * Theme URI:      http://www.camunda.com
+ * Description:    Creating the perfect website for camunda
+ * Author:         Jakob Freund
+ * Author URI:     http://www.camunda.com/
+ * Template:       alienship
+ * Version:        0.1.0
+ */
+
+
+#page {
+  margin: 0px auto;
+  max-width: 100%;
+}
+
+.cam_person td {
+  min-width:140px !important;
+}
+.pic { mind-width:140px; !important;}
+
+.references td { 
+	min-width:150px; !important;
+	padding:10px;
+}
+
+
+table.sla {
+	width: 600px !important;
+}
+.sla td, .sla th {
+	text-align: center;
+}
+.sla td.feature {
+	text-align:left;
+}
